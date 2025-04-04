@@ -1,1 +1,17 @@
 /node_modules
+/.env
+/.env.local
+/.env.development.local 
+/.env.test.local
+/.env.production.local
+/.next
+/.next/cache
+
+/.next/static
+/.next/server/pages
+/.next/serverless/pages
+/.next/serverless/static
+/.next/serverless/chunks
+/.next/serverless/pages-manifest.json
+/.next/serverless/build-manifest.json
+
